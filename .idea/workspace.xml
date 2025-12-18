@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8aacb060-eeaa-44f2-a9b6-ceeb176458e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/Pages/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/IternaryResult.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/TravelForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8aacb060-eeaa-44f2-a9b6-ceeb176458e7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
